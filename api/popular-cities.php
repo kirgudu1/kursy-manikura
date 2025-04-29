@@ -76,6 +76,16 @@
     <div class="cities-grid">
 <a href="/moskva">Москва</a>
 <a href="/sankt-peterburg">Санкт-Петербург</a>
+<a href="/novosibirsk">Новосибирск</a>
+<a href="/ekaterinburg">Екатеринбург</a>
+<a href="/nizhnii-novgorod">Нижний Новгород</a>
+<a href="/kazan">Казань</a>
+<a href="/chelyabinsk">Челябинск</a>
+<a href="/omsk">Омск</a>
+<a href="/samara">Самара</a>
+<a href="/rostov-na-donu">Ростов-на-Дону</a>
+
+<!--
 <a href="/arhangelsk">Архангельск</a>
 <a href="/astrahan">Астрахань</a>
 <a href="/balashiha">Балашиха</a>
@@ -84,12 +94,10 @@
 <a href="/vladimir">Владимир</a>
 <a href="/volgograd">Волгоград</a>
 <a href="/voronezh">Воронеж</a>
-<a href="/ekaterinburg">Екатеринбург</a>
 <a href="/ivanovo">Иваново</a>
 <a href="/izhevsk">Ижевск</a>
 <a href="/irkutsk">Иркутск</a>
 <a href="/ioshkar-ola">Йошкар-Ола</a>
-<a href="/kazan">Казань</a>
 <a href="/kaliningrad">Калининград</a>
 <a href="/kemerovo">Кемерово</a>
 <a href="/kirov">Киров</a>
@@ -101,17 +109,12 @@
 <a href="/lyubertsy">Люберцы</a>
 <a href="/mytishchi">Мытищи</a>
 <a href="/naberezhnye-chelny">Набережные Челны</a>
-<a href="/nizhnii-novgorod">Нижний Новгород</a>
 <a href="/novokuznetsk">Новокузнецк</a>
-<a href="/novosibirsk">Новосибирск</a>
-<a href="/omsk">Омск</a>
 <a href="/orenburg">Оренбург</a>
 <a href="/orsk">Орск</a>
 <a href="/penza">Пенза</a>
 <a href="/perm">Пермь</a>
-<a href="/rostov-na-donu">Ростов-на-Дону</a>
 <a href="/ryazan">Рязань</a>
-<a href="/samara">Самара</a>
 <a href="/saratov">Саратов</a>
 <a href="/stavropol">Ставрополь</a>
 <a href="/surgut">Сургут</a>
@@ -123,7 +126,9 @@
 <a href="/ulyanovsk">Ульяновск</a>
 <a href="/ufa">Уфа</a>
 <a href="/himki">Химки</a>
-<a href="/chelyabinsk">Челябинск</a>
+-->
+
+
     </div>
    <!-- <div class="all-cities-link">
         <a href="/goroda.php" class="btn">Все города →</a>
