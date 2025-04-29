@@ -123,12 +123,12 @@
 <a href="/himki">Химки</a>
 -->
 
-<div class="ad-disclaimer">
-  Реклама. АО Эдутех Групп, ИНН 7838094112, erid: LdtCKaoMZ
-</div>
-
 
     </div>
+	
+	<div class="ad-disclaimer">
+  Реклама. АО Эдутех Групп, ИНН 7838094112, erid: LdtCKaoMZ
+</div>
    <!-- <div class="all-cities-link">
         <a href="/goroda.php" class="btn">Все города →</a>
     </div>-->
