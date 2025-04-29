@@ -64,11 +64,6 @@
 
 
 
-<div class="ad-disclaimer">
-  Реклама. АО Эдутех Групп, ИНН 7838094112, erid: LdtCKaoMZ
-</div>
-
-
 
 <!-- ======== Популярные города ======== -->
 <section class="popular-cities">
@@ -127,6 +122,10 @@
 <a href="/ufa">Уфа</a>
 <a href="/himki">Химки</a>
 -->
+
+<div class="ad-disclaimer">
+  Реклама. АО Эдутех Групп, ИНН 7838094112, erid: LdtCKaoMZ
+</div>
 
 
     </div>
