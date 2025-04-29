@@ -9,8 +9,8 @@
 <meta property="og:type" content="website">
 <meta property="og:title" content="Курсы маникюра с дипломом — рейтинг лучших школ в России 2025">
 <meta property="og:description" content="Выбирайте лучшие курсы маникюра в своём городе. Рейтинг школ, стоимость обучения, документы по окончании, советы экспертов и аналитика рынка красоты.">
-<meta property="og:url" content="https://ваш-сайт.ру/">
-<meta property="og:image" content="https://ваш-сайт.ру/path/to/preview-image.jpg">
+<meta property="og:url" content="https://kursy-manikura.vercel.app/">
+<meta property="og:image" content="https://kursy-manikura.vercel.app/logo.png">
 
     <link rel="stylesheet" href="/styles.css">
 </head>
