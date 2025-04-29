@@ -370,9 +370,7 @@ const popularityChart = new Chart(ctx, {
 <li><a href="/ulyanovsk">Ульяновск</a></li>
 <li><a href="/ufa">Уфа</a></li>
 <li><a href="/himki">Химки</a></li>
-<li><a href="/cheboksary">Чебоксары</a></li>
 <li><a href="/chelyabinsk">Челябинск</a></li>
-<li><a href="/yaroslavl">Ярославль</a></li>
 
     </ul>
 </section>

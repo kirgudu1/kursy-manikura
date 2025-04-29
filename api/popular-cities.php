@@ -123,9 +123,7 @@
 <a href="/ulyanovsk">Ульяновск</a>
 <a href="/ufa">Уфа</a>
 <a href="/himki">Химки</a>
-<a href="/cheboksary">Чебоксары</a>
 <a href="/chelyabinsk">Челябинск</a>
-<a href="/yaroslavl">Ярославль</a>
     </div>
    <!-- <div class="all-cities-link">
         <a href="/goroda.php" class="btn">Все города →</a>
