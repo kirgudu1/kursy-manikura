@@ -66,10 +66,11 @@
     { "src": "/vladivostok", "dest": "/api/vladivostok.php" },
     { "src": "/vse", "dest": "/api/vse.php" }
   ],
- "redirects": [
-  {
-    "source": "/(.*)\\.html",
-    "destination": "/$1",
-    "permanent": true
-  }
-]
+  "redirects": [
+    {
+      "source": "/(.*)\\.html",
+      "destination": "/$1",
+      "permanent": true
+    }
+  ]
+}
