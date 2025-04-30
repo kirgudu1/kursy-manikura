@@ -64,6 +64,6 @@
     { "src": "/tolyatti", "dest": "/api/tolyatti.php" },
     { "src": "/vladimir", "dest": "/api/vladimir.php" },
     { "src": "/vladivostok", "dest": "/api/vladivostok.php" },
-    { "src": "/vse", "dest": "/api/vse.php" }
+    { "src": "/himki", "dest": "/api/himki.php" }
   ]
 }
