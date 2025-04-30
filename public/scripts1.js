@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function () {
         
         let label = block.querySelector(".rank-label"); 
         if (label) {
-            label.textContent = `Курс ${rank}`; // Проставляем текст в метку
+            label.textContent = `Топ ${rank}`; // Проставляем текст в метку
         }
 
         // ======== Добавляем пункт меню ТОЛЬКО из текущего файла ========
@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function () {
             let menuItem = document.createElement("li");
             let menuLink = document.createElement("a");
             menuLink.href = `#${blockId}`; // Привязываем к ID
-            menuLink.textContent = `Курс ${rank} - ${block.querySelector("h2").textContent}`;
+            menuLink.textContent = `Топ ${rank} - ${block.querySelector("h2").textContent}`;
 
             // Обработчик клика с плавной прокруткой и отступом
             menuLink.addEventListener("click", function (e) {
