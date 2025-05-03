@@ -6,11 +6,12 @@
   },
   "routes": [
     {
-      "src": "^/(.*)\\.html$",
-      "status": 301,
-      "redirect": "/$1"
+      "src": "^/.*\\.html$",
+      "dest": "/api/redirector.php"
     },
-    { "src": "/", "dest": "/api/index.php" },
+    {
+      "src": "/", "dest": "/api/index.php"
+    },
     { "src": "/about", "dest": "/api/about.php" },
     { "src": "/contacts", "dest": "/api/contacts.php" },
     { "src": "/goroda", "dest": "/api/goroda.php" },
