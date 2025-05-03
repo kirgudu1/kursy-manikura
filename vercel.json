@@ -8,7 +8,7 @@
     {
       "src": "^/(.*)\\.html$",
       "status": 301,
-      "headers": { "Location": "/$1" }
+      "redirect": "/$1"
     },
     { "src": "/", "dest": "/api/index.php" },
     { "src": "/about", "dest": "/api/about.php" },
